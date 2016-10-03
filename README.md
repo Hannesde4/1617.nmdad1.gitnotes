@@ -1,7 +1,10 @@
 Hello,
+
 I'm Hannes De Baere.
+
 I'm a webdeveloper student @ Arteveldehogeschool
-Everything you find here is for the course of New Media Design &amp Development (NMDaD)
+
+Everything you find here is for the course of New Media Design & Development (NMDaD)
 
 
 Mappen

@@ -5,12 +5,11 @@ Everything you find here is for the course of New Media Design & Development (NM
 
 > My personal AHS information:
 
-|:---------- | -----|
-| Student | Hannes De Baere |
-| Academic year | 2016-17 |
-|  |  |
-|  |  |
-|  |  |
+|               |                 |
+|:------------- | :-------------: |
+| Student       | Hannes De Baere |
+| Academic year | 2016-17         |
+
 
 
 Mappen

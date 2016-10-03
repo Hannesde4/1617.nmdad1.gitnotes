@@ -1,9 +1,16 @@
-> My personal AHS information:
-
 Hello, </br>
 I'm Hannes De Baere. </br>
 I'm a webdeveloper student @ Arteveldehogeschool </br>
 Everything you find here is for the course of New Media Design & Development (NMDaD) </br>
+
+> My personal AHS information:
+
+|:---------- | -----|
+| Student | Hannes De Baere |
+| Academic year | 2016-17 |
+|  |  |
+|  |  |
+|  |  |
 
 
 Mappen

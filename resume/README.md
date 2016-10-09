@@ -12,7 +12,8 @@ Personalia
 | Telefoonnummer      | 0497313223                     |
 | E-mailadres         | hannes_de_baere@hotmail.com    |
 | Website             | /                              |
-| Social Media        | -twitter @Hannesde4 -facebook Hannes De Baere |
+| Social Media        | -twitter @Hannesde4 
+-facebook Hannes De Baere |
 
 
 Opleiding(en)

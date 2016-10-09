@@ -17,9 +17,9 @@ Personalia
 
 Opleiding(en)
 --
-*diploma secundair Multimedia
-*diploma SeNSe Multimadia
-*attest bedrijfsbeheer
+1 diploma secundair Multimedia
+2 diploma SeNSe Multimadia
+3 attest bedrijfsbeheer
 
 
 Werkervaring(en)

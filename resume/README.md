@@ -17,20 +17,20 @@ Personalia
 
 Opleiding(en)
 --
-*diploma secundair Multimedia
+-diploma secundair Multimedia
 
-*diploma SeNSe Multimadia
+-diploma SeNSe Multimadia
 
-*attest bedrijfsbeheer
+-attest bedrijfsbeheer
 
 
 Werkervaring(en)
 --
-*DSV solutions 2011-2012
+-DSV solutions 2011-2012
 
-*colruyt Merelbeke 2012-2015
+-colruyt Merelbeke 2012-2015
 
-*Bpost Merelbeke 2016
+-Bpost Merelbeke 2016
 
 
 Cursussen en Workshops
@@ -39,13 +39,13 @@ Cursussen en Workshops
 
 Nevenactiviteit(en)
 --
-*vrijwillige brandweerman/ ambulancier bij brandweerzone centrum post Merelbeke
+-vrijwillige brandweerman/ ambulancier bij brandweerzone centrum post Merelbeke
 
-*vrijwilliger bij rode kruis Heusden
+-vrijwilliger bij rode kruis Heusden
 
-*animator bij speelpleinwerking Merelbeke
+-animator bij speelpleinwerking Merelbeke
 
-*animator bij Kazou Midden-Vlaanderen
+-animator bij Kazou Midden-Vlaanderen
 
 
 Computerkennis
@@ -54,15 +54,15 @@ Computerkennis
 
 Software
 --
-*illustrator
+-illustrator
 
-*inDesign
+-inDesign
 
-*Photoshop
+-Photoshop
 
-*After Effects
+-After Effects
 
-*Premiere
+-Premiere
 
 
 Webtechnologie
@@ -71,37 +71,37 @@ Webtechnologie
 
 Programmeertalen
 --
-*html5
+-html5
 
-*css3
+-css3
 
-*javascript
+-javascript
 
-*jQuery
+-jQuery
 
-*php
+-php
 
-*mySQL
+-mySQL
 
 
 Favoriete websites en apps
 --
-*codeacademy
+-codeacademy
 
-*facebook
+-facebook
 
-*netflix
+-netflix
 
-*pokemon go
+-pokemon go
 
 
 Talenkennis
 --
 *Nederlands (moedertaal)
 
-*Engels (normaal)
+-Engels (normaal)
 
-*Frans (basiskennis)
+-Frans (basiskennis)
 
 
 Overige

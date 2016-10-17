@@ -1,2 +1,17 @@
 .ahs-mdn-table {
 }
+
+*{
+    box-sizing: border-box;
+}
+
+.sidebar .weather-widget{
+    float:left;
+    min-width:125px;
+    text-align:center;
+    background-color:cornflowerblue;
+    padding:10px;
+    color:ghostwhite;
+    font-family: helvetica;
+    line-height:1.5em;
+}

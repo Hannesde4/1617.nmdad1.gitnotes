@@ -7,8 +7,7 @@
 | Academiejaar        | 2016-17                        |
 | Onderwijsinstelling | Arteveldehogeschool            |
 
-Dit is een test
-----djkfsqnnqfs,ddfs,q;
+
 
 Mappen
 ------
